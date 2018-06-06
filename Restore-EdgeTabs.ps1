@@ -13,8 +13,8 @@ Specifies path to a directory contained {*}.dat files from a session you want to
 .\Restore-EdgeTabs.ps1 c:\EdgeBackup
 .NOTES
 ATTENTION! All current Edge tabs will be closed, current session will be backed up to a subfolder within specified backup folder
-Please try "previous versions" feature of this folder if you have not backuped this folder manually
-If you have no backup of this folder, it is not possible to restore Edge tabs.
+Please try "previous versions" feature of metioned Edge folder if you have not backuped this folder manually
+If you have no backup of mentioned Edge folder, it is not possible to restore Edge tabs.
 Author: Dmitry Trukhanov
 #>
 
